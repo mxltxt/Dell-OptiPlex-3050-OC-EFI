@@ -6,4 +6,5 @@ rom：Nvme Samsung 256GB
 Video card：AMD rx560 4GB  
 Sound Card：alc255
 wifi&蓝牙：bcm94360cd
-DELL-OPTIPLEX-3050 SFF
+戴尔-OPTIPLEX-3050 SFF
+将内核全部更新为最新版本
